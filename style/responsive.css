@@ -1,0 +1,930 @@
+@media screen and (max-width:1920px){
+    .menu_container__style{
+        position: relative;
+        top: -1.2%;
+     }
+     .why_choose_us_container__styles{
+        position: relative;
+        top: 5.5%;   
+     }
+     .why_choose_us_right_first_pic__styles{        
+        width: 59%;
+        height: 42%;
+     }
+     .why_choose_us_right_second_pic__styles{        
+        width: 59%;
+        height: 41.5%;        
+     }
+     .first_post_content__style{
+        position: relative;
+        top: 30%;
+        left: 18%; 
+     }
+     .second_post_container__style{
+        position: relative;
+        top: -4.8%;
+     }
+     .second_post_content__style{
+        top: 30%;
+        left: 52%; 
+     }
+     .wts_container__style{
+        position: relative;
+        top: -9.5%;
+     }
+     .footer_container__styles{   
+        position: relative;
+        top: -11.5%;
+     }
+}
+@media screen and (max-width:1600px){
+    .down_line_header_container__style{
+        width: 8%;        
+     }
+    .down_litle_search_header__style{
+        position: relative;
+        top: 38%;
+    }
+    .menu_container__style{
+        position: relative;
+        top: -13.3%;
+    }
+    .why_choose_us_container__styles{
+        position: relative;
+        top: -7.5%;   
+    }
+    .why_choose_us_left__styles{
+        position: relative;
+        top: 15%;
+    }
+    .why_choose_us_right__styles{
+        position: relative;
+        top: -31%;
+    }
+    .why_choose_us_right_first_pic__styles{        
+        width: 59%;
+        height: 42%;
+    }
+    .why_choose_us_right_second_pic__styles{        
+        width: 59%;
+        height: 41.5%;        
+    }
+    .scheme_container__style{        
+        height: 25%;
+        position: relative;
+        top: -22.3%;
+    }
+    .serch_places_bg__style{        
+        width: 14%;
+        position: relative;        
+        left: 11%;
+    }
+    .serch_places__style{        
+        background-position: 10% 0%;
+        background-size: 65%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+    }
+    .select_places__style{
+        background-size: 64%;
+    }
+    .book_places__style{
+        background-size: 64%;
+    }
+    .book_places_bg__style{   
+        width: 14%;
+        position: relative;  
+        left: 75%;      
+    }
+    .first_post_container__style{
+        position: relative;
+        top: -22.5%;
+    }
+    .first_post_content__style{
+        position: relative;
+        top: 15%;
+        left: 18%; 
+    }
+    .second_post_container__style{
+        position: relative;
+        top: -35.8%;
+    }
+    .second_post_content__style{
+        top: 15%;
+        left: 52%; 
+    }
+    .wts_container__style{
+        position: relative;
+        top: -49%;
+    }
+    .footer_container__styles{   
+        position: relative;
+        top: -59.5%;
+    }
+    .footer_heading__styles{   
+        width: 70%;
+        height: 15%;
+        color: #ffffff;
+        font-family: "Josefin Sans";
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 26px;
+        text-align: center;
+        letter-spacing: 3.36px; 
+        position: relative;
+        top: 15%;
+        left: 15%;  
+    }
+    .footer_heading__styles:hover{
+        font-size: 28px;
+        transition: 1s;
+    }
+    .footer_parag__styles{
+        width: 60%;        
+        position: relative;
+        top: 20%;
+        left: 20%;
+    }
+    .footer_icons__styles{
+        position: relative;
+        top: 45%;
+    }
+}
+@media screen and (max-width:1200px){
+    .heading_header_container__style{
+        position: relative;
+        top: 20%;
+    }
+    .search_header_container__style{
+        position: relative;
+        top: 15%;   
+    }
+    .field_for_search__style{
+        padding-left: 12%;   
+     }
+    .field_for_search__style::placeholder{     
+        font-size: 11px;
+    }
+    .field_for_search__style{
+        width: 71%;   
+     }
+    .button_for_search__style{
+        width: 28%;        
+        position: relative;
+        font-size: 12;
+        top: 1px;
+        right: 2px;
+    }
+    .down_line_header_container__style{
+        width: 11%;
+        left: 44%;
+        top: 24%;
+    }
+    .down_line_header__style{
+        font-size: 15px;
+    }
+    .down_litle_search_header__style{
+        position: relative;
+        top: 14%;
+    }
+    .menu_container__style{
+        position: relative;
+        top: 0%;
+    }
+    .menu_heading_container__style{
+        position: relative;
+        top: -10%;
+    }
+    .menu_list_container__style{  
+        position: relative;  
+        top: -146%;
+    }
+    .menu_option__style{font-size: 18px;
+        font-size: 13px;
+        line-height: 13px;
+    }
+    .why_choose_us_container__styles{
+        position: relative;
+        top: 7%;   
+    }
+    .why_choose_us_left__styles{
+        width: 25%;
+        height: 45%;
+    }
+    .why_choose_us_left_heading__styles{         
+        font-size: 28px;
+        position: relative;
+        top: 8%;
+    }
+    .why_choose_us_left_parag__styles{
+        font-size: 15px;
+        line-height: 15px;
+    }
+    .explore_place_button__style{   
+        top: 75%;
+        font-size: 15px;
+        line-height: 15px;
+        padding: 17px 40px;
+    }
+    .explore_place_button__style:hover{
+        padding: 17px 40px;
+        background-size: 100%;
+    }
+    .why_choose_us_right__styles{
+        width: 30%;
+        height: 60%;
+        position: relative;
+        top: -28%;
+        left: 57%;
+    }
+    .why_choose_us_right_first_pic__styles{
+        background-size: 110%;
+        width: 70%;
+        height: 53%;
+    }
+     .why_choose_us_right_first_pic__styles:hover{
+        width: 80%;
+        height: 63%;
+        transition: 1s;
+    }
+    .why_choose_us_right_second_pic__styles{
+        background-size: 110%;
+        width: 70%;
+        height: 53%;
+    }
+     .why_choose_us_right_second_pic__styles:hover{
+        width: 80%;
+        height: 63%;
+        transition: 1s;
+    }
+    .scheme_container__style{
+        position: relative;
+        top: 7%;
+    }
+    .scheme_content__style{
+        position: relative;
+        top: 10%;
+     }
+    .serch_places__style{
+        background-size: 55%;
+    }
+    .select_places__style{  
+        background-size: 58%;
+    }
+    .book_places__style{
+        background-size: 58%;
+    }
+    .line_scheme_content__style{
+        font-size: 26px;
+        position: relative;
+        left: -70%;
+    }
+    .first_post_container__style{
+        position: relative;
+        top: 7%;
+    }
+    .first_post_content__style{        
+        position: relative;
+        top: 18%;
+        left: 18%; 
+     }
+    .first_post_heading__style{
+        font-size: 15px;
+        line-height: 15px;
+        width: 50%;    
+    }
+    .first_post_parag__style{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .first_post_button__style{
+        font-size: 15px;
+        line-height: 15px;
+        padding: 17px 40px;
+    }
+    .first_post_button__style:hover{
+        padding: 17px 40px;
+        background-size: 100%;
+    }
+    .second_post_container__style{
+        position: relative;
+        top: 7%;
+    }
+    .second_post_content__style{        
+        position: relative;
+        top: 18%;
+        left: 52%;
+     }
+    .second_post_heading__style{
+        font-size: 15px;
+        line-height: 15px;
+        width: 50%;    
+    }
+    .second_post_parag__style{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .second_post_button__style{
+        font-size: 15px;
+        line-height: 15px;
+        padding: 17px 40px;
+    }
+    .second_post_button__style:hover{
+        padding: 17px 40px;
+        background-size: 100%;
+    }
+    .wts_container__style{
+        position: relative;
+        top: 7%;
+    }
+    .wts_panel__style{        
+        position: relative;
+        top: 26%;
+    }
+    .wts_panel_cont_heading__style{   
+        font-size: 17px;
+        line-height: 17px;
+        top: 13%;
+        left: 11%;
+    }
+    .wts_panel_cont_parag_lab__style{
+        position: relative;
+        top: 16%;
+        left: 11%;
+    }
+    .wts_panel_cont_parag__style{
+        position: relative;   
+        top: 11%;
+        left: 11%;
+        font-size: 16px;
+        line-height: 16px;
+        text-align: left;
+        width: 70%;
+    }
+    .footer_container__styles{   
+        position: relative;
+        top: 7%;
+    }
+    .footer_heading__styles{        
+        font-size: 18px;        
+        line-height: 20px;
+    }
+    .footer_heading__styles:hover{
+        font-size: 22px;
+    }
+    .footer_parag__styles{
+        font-size: 11px;
+        line-height: 15px;
+     }
+}
+@media screen and (max-width:1024px){
+    .baner_container__style{
+        background-size: 290%;
+    }
+    .heading_header_container__style{
+        width: 50%;        
+        position: relative;
+        top: 20%;
+        left: 25%;       
+    }
+    .search_header_container__style{
+        width: 50%;
+        top: 24%;
+        left: 25%;   
+    }
+    .down_line_header_container__style{
+        width: 12%;
+        height: 110px;
+        position: relative;
+        left: 44%;
+        top: 38%;
+        color: #ffffff;
+    }
+    .menu_heading_container__style-h2{
+        position: relative;
+        top: 42%;
+    }
+    .menu_heading_container__style-h2:hover{
+        font-size: 29px; 
+    }
+    .menu_list_container__style{
+        width: 50%;
+        top: -140%;
+        left: 45%;
+    }
+    .menu_list__style{        
+        position: relative;
+        top: 32%;
+    }
+    .why_choose_us_container__styles{
+        top: 7%;   
+    }
+    .why_choose_us_left__styles{
+        top: 5%;
+        left: 15%;
+    }
+    .why_choose_us_left_heading__styles{ 
+        font-size: 26px;
+        line-height: 16px;
+        top: 12%;
+    }
+    .why_choose_us_left_parag__styles{
+        font-size: 10px;
+        line-height: 20px;
+        top: 20%;   
+    }
+    .explore_place_button__style{
+        top: 45%;
+        padding: 20px 44px;
+    }
+    .explore_place_button__style:hover{
+        padding: 20px 44px;
+    }
+    .why_choose_us_right__styles{
+        top: -33%;        
+    }
+    .why_choose_us_right_second_pic__styles{
+        top: -9%;
+        left: 26%;
+    }
+    .scheme_container__style{
+        position: relative;
+        top: -17.5%;
+    }
+    .scheme_content__style{
+        background-image: none;
+        width: 70%;
+        top: 13%;
+        left: 15%;
+    }
+    .serch_places_bg__style{
+        width: 20%;        
+        top: 28%;
+    }
+    .select_places_bg__style{
+        width: 20%;        
+        top: -24%;
+    }
+    .book_places_bg__style{   
+        width: 20%;        
+        top: -75%;
+    }
+    .serch_places__style{
+        background-position: 24% 0;
+        background-size: 40%;        
+    }
+    .serch_places__style:hover{
+        background-position: 24% 0;
+        background-size: 40%; 
+    }
+    .select_places__style{
+        background-position: 19% 0;
+        background-size: 37%; 
+    }
+    .select_places__style:hover{
+        background-position: 19% 0;
+        background-size: 37%; 
+    }
+    .book_places__style{
+        background-position: 19% 0;
+        background-size: 37%; 
+    }
+    .book_places__style:hover{
+        background-position: 19% 0;
+        background-size: 37%; 
+    }
+    .first_post_container__style{
+        position: relative;
+        top: -17.5%;
+    }
+    .first_post_content__style{
+        top: 4%;
+        left: 18%; 
+    }
+    .first_post_button__style{
+        padding: 20px 44px;
+    }
+    .second_post_container__style{
+        position: relative;
+        top: -40%;
+    }
+    .second_post_content__style{
+        top: 4%;
+        left: 52%;  
+    }
+    .second_post_button__style{
+        padding: 20px 44px;
+    }
+    .wts_container__style{
+        position: relative;
+        top: -62.5%;
+    }
+    .wts_heading__style{        
+        font-size: 26px;
+        line-height: 20px;
+        top: 8%;
+    }
+    .wts_panel__style{
+        height: 45%;
+        top: 12%;
+    }
+    .wts_panel_photo__style{        
+        background-size: 110%;
+    }
+    .wts_panel_cont_heading__style{   
+        width: 30%;
+        height: 8%;
+        color: #fefefe;
+        font-family: "Josefin Sans";
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 20px;
+        text-align: left;
+        position: relative;
+        top: 8%;
+        left: 10%;
+    }
+    .footer_container__styles{   
+        position: relative;
+        top: -83%;
+    }
+    .footer_heading__styles{   
+        font-size: 16px;
+     } 
+     .footer_heading__styles:hover{
+        font-size: 18px;
+        transition: 1s;
+     }
+@media screen and (max-width:414px){
+    .grand_container__style{    
+        width: 414px;
+        height: 736px; 
+        padding: 0;
+    } 
+    .header_container__style{
+        width: 414px;
+        height: 736px;    
+    }
+    .baner_container__style{
+        width: 414px;
+        height: 736px;
+        background-size: 385%;
+        background-position: 20%;        
+    }
+    .heading_header_container__style{
+        width: 60%;
+        height: 20%;
+        position: relative;
+        top: 20%;
+        left: 20%;        
+    }
+    .general_heading_header__style{
+        font-size: 30px;        
+    }
+    .slogan_heading_header__style{   
+        text-align: 10px;
+    }
+    .search_header_container__style{
+        width: 60%;
+        height: 5%;
+        position: relative;
+        top: 20%;
+        left: 20%;
+    }
+    .field_for_search__style{
+        width: 100%;
+        height: 5%;
+        padding: 8% 3%;   
+    }
+    .field_for_search__style::placeholder{     
+        font-size: 8px;
+    }
+    .button_for_search__style{
+        width: 70%;
+        height: 100%;
+        font-size: 15px;
+        font-family: Aleo;
+        position: relative;
+        top: 70%;
+        left: 15%;
+    }
+    .small_search__style{
+        position: relative;
+        top: 85%;
+        left: -8%;
+    }
+    .down_line_header_container__style{
+        width: 30%;
+        height: 8%;
+        position: relative;
+        left: 35%;
+        top: 48%;
+    }
+    .menu_container__style{
+        width: 100%;
+        height: 7%;
+    }
+    .menu_heading_container__style{        
+        font-size: 10px;
+        line-height: 13px;
+        position: relative;
+        top: 10%;
+        left: 10%;
+    }
+    .menu_sandwich__style{        
+        position: relative;
+        font-size: 30px;
+        left: 80%;
+        top: -79%;
+        z-index: 80;
+        color: white;
+
+    }
+    .menu_checkbox__style{
+        width: 20px;
+        height: 20px;
+        position: relative;
+        left: 73.5%;
+        top: -80%;
+        z-index: 81;
+    }
+    .menu_list_container__style{
+        background-color: #5474fd;
+        width: 50%;
+        height: 300px;
+        position: relative;  
+        top: -72%;
+        left: -100%;
+        z-index: 999; 
+    }
+    .menu_list__style{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: 0%;
+    }
+    .menu_option__style{
+        width: 100%;
+        height: 100%; 
+        position: relative;
+        font-size: 17px;
+        top: 0%;
+    }
+    .menu_hover_option__style{
+        position: relative;
+        top: 0%;
+        width: 90%;
+        height: 100%;
+        padding: 12% 4%;
+        border-top: 1px solid #5474fd;
+        border-bottom: 1px solid #5474fd;
+        border-left: none;
+        border-right: none;  
+    }
+    .menu_hover_option__style:hover{
+        background-color: #264eff;
+        transition: 1s;
+        border-left: none;
+        border-right: none;
+        border-top: 1px solid white;
+        border-bottom: 1px solid white;
+    }
+    .menu_checkbox__style:checked ~ .menu_list_container__style{
+        position: relative;
+        left: 50%; 
+    }
+    .why_choose_us_container__styles{
+        width: 100%;
+        height: 130%;
+        background-size: 490%;
+        position: relative;
+        top: 6%;
+     }
+    .why_choose_us_left__styles{
+        width: 70%;
+        height: 30%;
+        position: relative;
+        top: 2%;
+        left: 10%;
+        padding: 5%;
+    }
+    .explore_place_button__style{
+        position: relative;
+        top: 45%;
+        left: 15%;
+        
+    }
+    .why_choose_us_right__styles{
+        width: 70%;
+        height: 40%;
+        position: relative;
+        top: 6%;
+        left: 15%;
+    }
+    .why_choose_us_right_first_pic__styles{        
+        width: 100%;
+        height: 49%;
+    }
+    .why_choose_us_right_first_pic__styles:hover{
+        width: 100%;
+        height: 49%;
+    }
+    .why_choose_us_right_second_pic__styles{        
+        width: 100%;
+        height: 49%;
+        position: relative;
+        top: 3%;
+        left: 0%;
+    }
+    .why_choose_us_right_second_pic__styles:hover{
+        width: 100%;
+        height: 49%;
+        position: relative;
+        top: 3%;
+        left: 0%;
+    }
+    .scheme_container__style{
+        width: 100%;
+        height: 75%;
+        background-color: #333333;
+    }
+    .serch_places_bg__style{
+        width: 40%;
+        height: 35%;
+        position: relative;        
+        top: -20%;
+        left: 40%;
+    }
+    .serch_places__style{
+        background-image: url("../icons/SearchIcon.svg");
+        background-position: center;
+        background-size: 85%;
+        background-repeat: no-repeat;
+        position: relative;
+        left: -15%;
+        bottom: -10%;
+        width: 100%;
+        height: 100%;
+    }
+    .serch_places__style:hover{
+        background-position: center;
+        background-size: 85%;
+        transition: 0;
+        position: relative;
+        left: -15%;
+        bottom: -10%;
+
+    }
+    .select_places_bg__style{
+        width: 40%;
+        height: 35%;
+        position: relative;        
+        top: -4%;
+        left: 40%;
+     }
+     .select_places__style{
+        background-image: url("../icons/OkIcon.svg");
+        background-position: center;
+        background-color: #333333;   
+        background-size: 75%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        left: -15%;
+        bottom: -10%;
+     }
+     .select_places__style:hover{
+        background-position: center;
+        background-size: 75%;
+        transition: 0;
+        position: relative;
+        left: -15%;
+        bottom: -10%;
+     }
+    .book_places_bg__style{   
+        width: 40%;
+        height: 35%;
+        position: relative;        
+        top: 12%;
+        left: 40%;
+    }
+    .book_places__style{
+        background-image: url("../icons/LikeIcon.svg");
+        background-color: #333333; 
+        background-position: center;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        left: -15%;
+        bottom: -10%;
+    }
+    .book_places__style:hover{
+        background-position: center;
+        background-size: 80%;
+        transition: 0;
+        position: relative;
+        left: -15%;
+        bottom: -10%;
+    }
+    .first_post_container__style{        
+        background-size: 348%;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        top: -17.5%;
+    }
+    .first_post_content__style{
+        width: 80%;
+        height: 60%;
+        background-color: rgba(0, 0, 0, 0.7);
+        position: relative;
+        top: 7%;
+        left: 10%; 
+    }
+    .second_post_container__style{
+        background-size: 348%;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        top: -40%;
+    }
+    .second_post_content__style{
+        width: 80%;
+        height: 60%;
+        background-color: rgba(0, 0, 0, 0.7);
+        position: relative;
+        top: 7%;
+        left: 10%; 
+    }
+    .wts_container__style{        
+        background-size: 350%;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        top: -65%;
+    }
+    .wts_heading__style{        
+        width: 80%;
+        position: relative;
+        top: 5%;
+        left: 10%;
+    }
+    .wts_panel__style{
+        height: 65%;
+        position: relative;
+        top: 8%;
+    }
+    .wts_panel_photo__style{
+        width: 100%;
+        height: 50%;
+    }
+    .wts_panel_cont__style{
+        width: 90%;
+        height: 45%;
+        position: relative;
+        top: 0%;
+        left: 0%;
+        padding: 5%;
+    }
+    .wts_panel_cont_heading__style{   
+        width: 50%;
+        top: 0%;
+        left: 0%;
+    }
+    .wts_panel_cont_parag_lab__style{
+        position: relative;
+        top: 5%;
+        left: 0%;
+     }
+    
+     .wts_panel_cont_parag__style{
+        position: relative;   
+        top: 0%;
+        left: 0%;
+        font-size: 13px;
+        line-height: 20px;
+        width: 100%;
+    }
+    .footer_container__styles{   
+        position: relative;
+        top: -84%;
+    }
+    .footer_heading__styles{
+        width: 100%;
+        height: 15%;        
+        position: relative;
+        top: 15%;
+        left: -25%;  
+    }
+    .footer_icons__styles{
+        width: 200%;
+        height: 15%;
+        position: relative;
+        top: 45%;
+        left: -44%;
+    }
+}}
